@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class Basic_7845693237_1370432160_9189701934 {
+public class Basic {
     public static void main(String[] args) throws IOException {
         if (args.length <= 0) {
             System.err.println("Please specify input.txt file");
